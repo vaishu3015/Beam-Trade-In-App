@@ -1,11 +1,12 @@
 
 # Beam Trade-In App – Smartphone Evaluation & Trade-In Platform
 
-**Project:** Beam Trade-In App  
-**Company:** Beam Innovate Pvt. Ltd.  
+**Author:** Vaishnavi
+
+**Email:** vaishum3004@gmail.com 
+
 **Client / Platform:** Unicorn  
-**Role:** Flutter Developer  
-**Technology:** Flutter, Dart, REST APIs  
+
 **Platforms:** Android and iOS
 
 ---
